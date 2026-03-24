@@ -214,3 +214,5 @@ startGame();
 
 </body>
 </html>
+instagram:https://www.instagram.com/uvaysiddin_22/#
+telegram:https://t.me/EFOOTBALSTART_10
