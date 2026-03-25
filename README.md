@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 
 <head>
@@ -826,8 +826,3 @@ function nextMathLevel() {
   </a>
 </div>
 
-</body>
-</html>
-</body>
-
-</html>
